@@ -1,6 +1,6 @@
-# 📊 Praktikum Analisis Regresi Terapan (ART) — Semester 2
+# 📊 Eksplorasi dan Visualisasi Data (EVD) — Semester 2
 
-> Repositori dokumentasi yang berisi referensi sintaks dari mata kuliah praktikum Analisis Regresi Terapan, yang berfokus pada teknik regresi menggunakan bahasa pemrograman R di RStudio.
+> Repositori dokumentasi yang berisi referensi sintaks dari mata kuliah praktikum Eksplorasi dan Visualisasi Data, yang berfokus pada analisis dan visualisasi data menggunakan R di RStudio.
 
 ---
 
@@ -9,8 +9,8 @@
 | Attribute     | Details                              |
 |---------------|--------------------------------------|
 | **Author**    | Cheisa Billy Putra Antoni            |
-| **Date**      | February 25, 2026                    |
-| **Course**    | Applied Regression Analysis          |
+| **Date**      | March 4, 2026                        |
+| **Course**    | Data Exploration and Visualization   |
 | **Language**  | R 4.4.1                              |
 
 ---
@@ -18,4 +18,4 @@
 ## 👤 Author
 
 **Cheisa Billy Putra Antoni**  
-📅 February 25, 2026
+📅 March 4, 2026
