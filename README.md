@@ -1,4 +1,4 @@
-# 📊 Eksplorasi dan Visualisasi Data (EVD) — Semester 2
+# 📊 Praktikum Eksplorasi dan Visualisasi Data (EVD) — Semester 2
 
 > Repositori dokumentasi yang berisi referensi sintaks dari mata kuliah praktikum Eksplorasi dan Visualisasi Data, yang berfokus pada analisis dan visualisasi data menggunakan R di RStudio.
 
