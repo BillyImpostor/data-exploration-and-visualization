@@ -1,0 +1,19 @@
+---
+title: "Pertemuan_2"
+output: html_document
+---
+
+```{r}
+install.packages("gcookbook")
+install.packages("plotly")
+```
+
+```{r}
+library(readxl)
+df = read_xlsx("C:\\Users\\BiliL\\Downloads\\Project Coding GitHub\\Praktikum_EVD\\Data_Pertemuan_2.xlsx")
+head(df)
+```
+
+```{r}
+# soon
+```
